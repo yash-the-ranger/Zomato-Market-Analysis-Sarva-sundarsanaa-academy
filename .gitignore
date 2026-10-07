@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+Thumbs.db
+
+# Raw source dataset
+Datasets/zomato.csv
+
+# Raw JSON datasets
+Datasets/*.json

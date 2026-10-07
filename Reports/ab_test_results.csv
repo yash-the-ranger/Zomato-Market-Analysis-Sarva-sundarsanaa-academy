@@ -1,0 +1,2 @@
+Experiment,Control_Group,Treatment_Group,Control_Mean_Votes,Treatment_Mean_Votes,Percentage_Lift,T_Statistic,P_Value,Significant
+Promotion vs No Promotion,A,B,151.78394552208007,162.18916046758767,6.855280319481446,1.1813742161397869,0.2374836151080091,False
