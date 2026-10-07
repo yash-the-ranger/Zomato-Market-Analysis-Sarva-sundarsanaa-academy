@@ -8,7 +8,7 @@ df = pd.read_csv(csv_path)
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="yashtheranger",
+    password="yaoursqlpassword",
     database="zomato_market_analysis"
 )
 
